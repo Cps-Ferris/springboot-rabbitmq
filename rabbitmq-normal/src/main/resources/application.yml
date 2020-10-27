@@ -11,6 +11,6 @@ spring:
     publisher-confirm-type: simple
     publisher-returns: true
 
-  redis:
-    host: 192.168.181.22
-    port: 6379
+#  redis:
+#    host: 192.168.181.22
+#    port: 6379
